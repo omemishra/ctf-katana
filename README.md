@@ -191,6 +191,9 @@ Steganography
 * SONIC Visualizer (audio spectrum)
 
 	Some classic challenges use an audio file to hide a flag or other sensitive stuff. SONIC visualizer easily shows you [spectrogram](https://en.wikipedia.org/wiki/Spectrogram). __If it sounds like there is random bleeps and bloops in the sound, try this tactic!__
+	
+* ONLINE VISUAL
+	https://academo.org/demos/spectrum-analyzer/
 
 * [Detect DTMF Tones]
 
